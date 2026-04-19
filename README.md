@@ -65,8 +65,8 @@ Designed an agent-driven system to orchestrate loan workflows across verificatio
 👉 [View Case Study](./agentic-ai-loan-processing)
 
 ---
-
-### 🚜 Agentic AI Platform for Volvo CE Ecosystem
+<!-- 
+### 🚜 Agentic AI Platform for automotive  Ecosystem
 Conceptualized an AI platform to support dealers and customers across equipment lifecycle.
 
 - 🔧 Intelligent service recommendations  
@@ -74,7 +74,7 @@ Conceptualized an AI platform to support dealers and customers across equipment 
 - 🤝 Improved customer engagement and support workflows  
 
 👉 [View Case Study](./agentic-ai-volvo-ce)
-
+-->
 ---
 
 ## 💼 Professional Experience
